@@ -8,5 +8,6 @@ public class Test01 {
         double d = 9.8;
         int a = (int)d;
         System.out.println(a);
+        System.out.println(11111);
     }
 }
